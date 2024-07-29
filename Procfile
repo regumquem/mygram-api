@@ -1,0 +1,1 @@
+web: ./abid-prakerja-uji-kemampuan.exe
